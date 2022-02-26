@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/rocket-flix/static/js/main.3e1fde92.js",
+    "static/media/shuffle.svg": "/rocket-flix/static/media/shuffle.5fc998308ee463da953ce42f821adeeb.svg",
+    "index.html": "/rocket-flix/index.html",
+    "main.3e1fde92.js.map": "/rocket-flix/static/js/main.3e1fde92.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3e1fde92.js"
+  ]
+}
