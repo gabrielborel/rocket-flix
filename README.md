@@ -3,7 +3,7 @@
 Um projeto do programa de desafios Discover da RocketSeat 🚀
 <br>
 <br>
-🧪 React e Styled Components
+🧪 React, Styled Components e Axios
 <br>
 <br>
 💻 Link para acessar o projeto: https://gabrielborel.github.io/rocket-flix/
